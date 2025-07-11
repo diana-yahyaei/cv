@@ -1,35 +1,35 @@
 body{
-    background-color: blue;
+   
 margin: 0;
 padding: 0;
 }
-
-  
-
 .bt{
     width:10px;
     height: 10px;
     border-radius: 10px ;
     background-color: green;
   margin-left: 2px;
-
-    
-
-
-
 }
 .cv{
     width: 65px;
     height: 40px;
-    background-color: red;
-   
+    background-color: red; 
 text-align: center;
     border-radius: 5px;
 padding-left: 6px;
-
   margin-top: 3px;
    margin-left: 1px;
     display: flex;
     align-items: center;
     gap: 5px;
+}
+.box{
+   width: 400px;
+   height: 450px;
+   background-color: rgb(255, 0, 157);
+   margin-top: 70px;
+   margin-inline-start: 500px;
+ border-radius: 10px;
+ border:1px dashed aqua;
+ box-shadow: 0 4px 20px rgb(0, 255, 55);
 }
