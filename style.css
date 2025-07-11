@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+margin: 0;
+padding: 0;
+}
+
+  
+
+.bt{
+    width:10px;
+    height: 10px;
+    border-radius: 10px ;
+    background-color: green;
+  margin-left: 2px;
+
+    
+
+
+
+}
+.cv{
+    width: 65px;
+    height: 40px;
+    background-color: red;
+   
+text-align: center;
+    border-radius: 5px;
+padding-left: 6px;
+
+  margin-top: 3px;
+   margin-left: 1px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
