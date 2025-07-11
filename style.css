@@ -27,9 +27,27 @@ padding-left: 6px;
    width: 400px;
    height: 450px;
    background-color: rgb(255, 0, 157);
-   margin-top: 70px;
+margin-top: 70px;
    margin-inline-start: 500px;
  border-radius: 10px;
  border:1px dashed aqua;
- box-shadow: 0 4px 20px rgb(0, 255, 55);
+ /*box-shadow: 0 4px 20px rgb(0, 255, 55);*/
+
+ 
+}
+.front{
+   
+    height: 25px;
+    width:105px;
+    background-color: brown;
+    color: white;
+    text-transform: uppercase ;
+border-radius: 3px;
+    margin-left: 810px;
+  margin-top:-460px;
+    padding-top: 2px;
+    position: relative;
+ z-index: 1;
+    text-align: center;
+    word-spacing: 3px;
 }
