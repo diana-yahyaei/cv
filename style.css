@@ -182,7 +182,7 @@ li {
   }
 }
 
-@media screen and (height<=350px) {
+@media screen and (height<=500px) {
   .box {
     margin-top: 200px;
   }
